@@ -1,8 +1,11 @@
 # **ESP32 Based Desk Display**
-I'm building a desk display using a 5.83-inch E-Paper screen and an ESP32. It will show the current time, day, date, and a small To-Do list.
+- **Title:** Desk Display
+- **Author:** Anshuman Tripathy
+- **Description:** I'm building a desk display using a 5.83-inch E-Paper screen and an ESP32. It will show the current time, day, date, and a small To-Do list.
+- **Created_at:** 2025-05-25
 ---
 
-## **Day 1 - 25th May**
+## **Day 1 - 25th May: Epaper Ciruit DONE**
 
 Today I completed the E-paper interfacing circuit. I want to use the SEEINK 5.83 inch display since it's cheap but lacks enough documentation. So, I researched and found out that Waveshare also makes the same display but it's more expensive. I compared their datasheets and found that they are almost pin-to-pin compatible. I took reference from both the docs and completed it.  
 
@@ -12,7 +15,7 @@ Today I completed the E-paper interfacing circuit. I want to use the SEEINK 5.83
 
 ---
 
-# **Day 2 - 27th May**
+# **Day 2 - 27th May: ESP32 and UART Circuit**
 
 Today I completed the UART and ESP32 interface. This will help in programming the ESP32. I will be using a CH343P chip and Type-C for the UART communication. I had never used the CH343P chip before, so I had to read the datasheets extensively and took reference from example circuits online.  
 After this, I need to start with the power portion.  
@@ -24,7 +27,7 @@ After this, I need to start with the power portion.
 
 ---
 
-# **Day 3 - 28th May**
+# **Day 3 - 28th May: Power control**
 
 I started the power portion. I used different regulator ICs for the E-paper display and ESP32. I have added a portion to turn off the display by controlling it using the ESP32.  
 I had to go through many E-paper display examples to decide on the right regulator.  
@@ -38,7 +41,7 @@ I had to go through many E-paper display examples to decide on the right regulat
 
 ---
 
-# **Day 4 - 30th May**
+# **Day 4 - 30th May: Schematic Organising and a Failed Routing attempt**
 
 Now I completed the schematic completely and labeled the sections for better readability. Also, I assigned all the footprints.  
 Majorly, I will be using 0603 for the resistors and capacitors.  
@@ -51,7 +54,7 @@ Began with the component placing. Initially, I thought I would be making the PCB
 
 ---
 
-# **Day 5 - 31st May**
+# **Day 5 - 31st May: Completed the Routing**
 
 Started to redo the PCB from scratch. Took me 4 hrs to complete the routing. It's still not perfect — will have to change a few things and remove errors.  
 I have only kept the connector and some caps associated with it on the bottom layer.  
@@ -59,7 +62,7 @@ I have only kept the connector and some caps associated with it on the bottom la
 
 ---
 
-# **Day 6 - 1st June**
+# **Day 6 - 1st June: Removed Errors from the pcb**
 
 Completed rectifying all the errors.  
 Here is the close-to-done PCB.  
@@ -69,7 +72,7 @@ Here is the close-to-done PCB.
 
 ---
 
-# **Day 7 - 2nd June**
+# **Day 7 - 2nd June: Designed the Case and Completed the PCB**
 
 Started with the case. Took reference from the datasheets of the display. Wanted to make it look sleek. However its not the final version since i need to get the hardware first and then will make the necessary changes
 Here are the images.  
