@@ -30,3 +30,21 @@ The display won't be battery powered — although it can be — but I don't want
 ![Screenshot 2025-06-02 104941](https://github.com/user-attachments/assets/0d1cc254-d417-4dd4-8ffd-4cc8e4a72c37)
 ![Screenshot 2025-06-02 104817](https://github.com/user-attachments/assets/341994d1-017a-4491-b34c-0a080585eaeb)
 
+# BOM 
+---
+| Product Name                                      | Retailer | Price ($) |
+|---------------------------------------------------|----------|-----------|
+| E-ink Display                                     | LCSC     | 18.16     |
+| FFC, FPC Connector                                | LCSC     | 0.79      |
+| MOSFET (SI2301CDS-T1-E3)                         | LCSC     | 0.77      |
+| DIP Switch                                        | LCSC     | 0.72      |
+| LDO Regulator (RT9193-33GB)                       | LCSC     | 0.54      |
+| USB to UART Converter                             | LCSC     | 1.13      |
+| WiFi Module (ESP32-WROOM-32E-N4)                  | LCSC     | 3.89      |
+| Passive Components (Grouped)                      | LCSC     | 5.08      |
+| **Subtotal (Merchandise)**                        | **LCSC** | **31.51** |
+| Shipping                                          | LCSC     | 3.73      |
+| **Total**                                          | **LCSC** | **35.24** |
+|PCB                                                | JLCPCB   | 2$        |
+|Shipping                                           |JLCPCB    | 8.32$     |
+| **SUB TOTAL**                                     |          |**45.56**  |
