@@ -30,6 +30,7 @@ The display won't be battery powered — although it can be — but I don't want
 ![Screenshot 2025-06-02 104941](https://github.com/user-attachments/assets/0d1cc254-d417-4dd4-8ffd-4cc8e4a72c37)
 ![Screenshot 2025-06-02 104817](https://github.com/user-attachments/assets/341994d1-017a-4491-b34c-0a080585eaeb)
 ![image](https://github.com/user-attachments/assets/23f53b2f-fdf5-4e8a-bedb-ba65003b15b9)
+![image](https://github.com/user-attachments/assets/877b48a0-fadc-4b53-af88-1c6cbfe72fcc)
 
 
 # BOM 
