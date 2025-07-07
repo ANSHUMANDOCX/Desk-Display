@@ -50,5 +50,5 @@ The display won't be battery powered — although it can be — but I don't want
 | **Total**                                          | **LCSC** | **35.24** |
 |PCB                                                | JLCPCB   | 2$        |
 |Shipping                                           |JLCPCB    | 8.32$     |
-|Solder Paste+ Tweezers                             |Amazon    |8$         |
-| **SUB TOTAL**                                     |          |**53.56**  |
+|Solder Paste+ Tweezers                             |Electronicscomp |5$   |
+| **SUB TOTAL**                                     |          |**50.56**  |
